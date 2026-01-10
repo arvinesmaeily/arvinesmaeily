@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Arvin 👨‍💻
 
 **I build tools, solve problems, and make ideas real with code.**  
-Welcome to my GitHub — here’s where I explore software development, data science, and interesting tech experiments.
+Welcome to my GitHub. Here’s where I explore data science, software development and interesting tech experiments.
 
 ---
 
@@ -85,7 +85,7 @@ C#, Python, Java, MATLAB
 
 ## 📫 Get in Touch
 
-Connect with me — ask questions, suggest ideas, or collaborate on a project:
+Connect with me, ask questions, suggest ideas, or collaborate on a project:
 
 <img width=30 height = 30 align="center" src="https://raw.githubusercontent.com/arvinesmaeily/arvinesmaeily/refs/heads/main/linkedin_icon.png"/> **LinkedIn:** [https://www.linkedin.com/in/arvinesmaeily](https://www.linkedin.com/in/arvinesmaeily)
 

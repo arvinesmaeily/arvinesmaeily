@@ -50,7 +50,11 @@ Videos](https://github.com/Group69-MLDL/MLDLProject)**
 
   Predicting the trend of a stock on the Iranian Stock Exchange using LSTM and GRU Neural Networks on TSETMC Time-Series Dataset.
 
-- **[SSHDirectClient](https://github.com/arvinesmaeily/SSHDirectClient)**  
+- **[Fluent SSH](https://github.com/arvinesmaeily/FluentSSH)**
+
+  A modern Windows application for creating a secure SOCKS5 proxy tunnel over SSH. Built with WinUI 3 and the Windows App SDK, Fluent SSH is the next‑generation successor to [SSH‑Direct‑Client](https://github.com/arvinesmaeily/SSHDirectClient), redesigned from the ground up with a native Fluent Design experience.
+
+- **[SSHDirectClient(Discontinued)](https://github.com/arvinesmaeily/SSHDirectClient)**  
 
   A WPF-based Windows application that creates a secure SOCKS5 proxy tunnel to a remote server. It's designed to be a simple, graphical alternative to the ssh -D or ssh -L command. 
 

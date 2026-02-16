@@ -95,6 +95,8 @@ Connect with me, ask questions, suggest ideas, or collaborate on a project:
 
 <img width=30 height = 30 align="center" src="https://raw.githubusercontent.com/arvinesmaeily/arvinesmaeily/refs/heads/main/gmail_icon.png"/> **Mail:** [arvinismaili@gmail.com](mailto:arvinismaili@gmail.com)
 
+<img width=30 height = 30 align="center" src="https://raw.githubusercontent.com/arvinesmaeily/arvinesmaeily/refs/heads/main/yahoo_mail_icon.png"/> **Mail:** [arvin.esmaeili@yahoo.com](mailto:arvin.esmaeili@yahoo.com)
+
 ---
 
 *Thanks for visiting my GitHub!* 🚀
